@@ -2,13 +2,36 @@
 title: My idol with pink jacket!
 category: People
 ---
-
-Dana Thomas Carvey (born June 2, 1955) is a performer and stand-up comedian known for their work as a cast member on Saturday Night Live and for playing the role of Garth Algar in the Wayne's World films.
+hari ini idol kesayanganku memakai jacket pink, saat aku melihatnya aku terpana. semoga komentarku di postinganya dapat di balas. aku juga membuat puisi mengenai dia hari ini.
 
 <!-- more -->
 
-Carvey was born in Missoula, Montana, the child of Billie Dahl, a schoolteacher, and Bud Carvey, a high-school business teacher. Carvey is the sibling of Brad Carvey, the engineer/designer of the Video Toaster. The character Garth Algar is loosely based on Brad. Carvey has English, German, Irish, Norwegian, and Swedish ancestry, and was raised Lutheran. When they were three years old, their family moved to San Carlos, California, in the San Francisco Bay Area. They received their first drum kit at an early age. They attended Tierra Linda Junior High in San Carlos, Carlmont High School in Belmont, California (where they were a member of the Central Coast Section champion cross country team), College of San Mateo in San Mateo, California, and received their bachelor's degree in broadcast communications from San Francisco State University.
+In a realm where dreams and stardust blend,
+There walks an idol, a rose-hued trend,
+A vision in pink, a jacket aglow,
+Capturing hearts wherever they go.
 
-They had a minor role in Halloween II, and co-starred on One of the Boys in 1982, a short-lived television sitcom that also starred Mickey Rooney, Nathan Lane, and Meg Ryan. In 1984, Carvey had a small role in Rob Reiner's film This Is Spinal Tap, in which they played a mime, with comedian Billy Crystal (who tells them "Mime is money!"). They also appeared in the short-lived film-based action television series Blue Thunder.
+With every step, a rhythm ignites,
+Their presence a symphony of dazzling lights,
+In a pink jacket that blooms like spring,
+They dance and sing, an enchanting thing.
 
-_Originally from [Dana Carvey - Wikipedia](https://en.wikipedia.org/wiki/Dana_Carvey)_
+Like petals unfurling in dawn's embrace,
+They charm the world with elegance and grace,
+Their voice, a melody that heaven sends,
+Guiding us through life's twists and bends.
+
+Oh, idol in pink, you shine so bright,
+A beacon of hope in the darkest night,
+With each twirl and sway, you mesmerize,
+Weaving magic before our very eyes.
+
+A jacket of pink, a symbol of flair,
+A reminder to dream, to do and dare,
+You inspire us all to reach for the skies,
+With your radiant spirit that never denies.
+
+So here's to the idol who wears pink so well,
+In their presence, our hearts forever swell,
+May their journey be filled with love and glee,
+An icon of joy for all to see.
