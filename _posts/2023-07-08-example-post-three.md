@@ -1,5 +1,5 @@
 ---
-title: Who is Dana Carvey?
+title: My idol with pink jacket!
 category: People
 ---
 
