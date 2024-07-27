@@ -1,18 +1,33 @@
 ---
-title: RIO?
+title: Pastebin
 category: People
 ---
 
-Michael John "Mike" Myers (born May 25, 1963) is a Canadian-born performer, comedian, screenwriter, and film producer, who also holds UK and US citizenship.[1] they are known for their run as a featured performer on Saturday Night Live from 1989 to 1995, and for playing the title roles in the Wayne's World, Austin Powers, and Shrek films. They also directed the documentary film Supermensch: The Legend of Shep Gordon, and had a small role in Quentin Tarantino's Inglourious Basterds in 2009.
+Apa itu Pastebin?
+Pastebin adalah situs web tempat Anda dapat menyimpan teks secara online untuk jangka waktu tertentu. Ini biasanya digunakan untuk berbagi cuplikan kode, log, atau konten teks apa pun dengan mudah.
 
 <!-- more -->
 
-Myers was born on May 25, 1963 in Scarborough, Ontario, the child of English-born parents Eric Myers (1922–1991), an insurance agent, and their spouse, Alice E. (née Hind; born 1926), an office supervisor and a veteran of the Royal Air Force.
+Langkah-langkah Menggunakan Pastebin
+Buka Pastebin:
 
-Both their parents were from Liverpool and they have two older siblings, Paul, an indie rock singer-songwriter, broadcaster and author, and Peter, a Sears Canada employee.
+1. Buka browser web Anda dan kunjungi Pastebin.
+Buat Paste Baru:
 
-Myers reportedly holds Canadian, U.S. and British citizenship.
+Di halaman utama, Anda akan melihat kotak teks besar di mana Anda dapat memasukkan konten yang ingin Anda bagikan.
+Masukkan Konten Anda:
 
-Myers grew up in North York and then Scarborough, where they attended Sir John A. MacDonald Collegiate Institute and then graduated from Stephen Leacock Collegiate Institute in 1982.
+Ketik atau tempel teks yang ingin Anda bagikan ke dalam kotak teks besar yang diberi label "New Paste."
+Pengaturan Opsional:
 
-_Originally from [Mike Myers - Wikipedia](https://en.wikipedia.org/wiki/Mike_Myers)_
+Highlighting Sintaks: Jika Anda berbagi kode, pilih bahasa yang sesuai untuk highlighting sintaks dari menu dropdown "Syntax Highlighting."
+Masa Berlaku Paste: Pilih berapa lama paste Anda akan tersedia dari menu dropdown "Paste Expiration" (misalnya, 10 menit, 1 jam, 1 hari, dll.).
+Eksposur Paste: Pilih apakah Anda ingin paste Anda menjadi publik, tidak terdaftar, atau pribadi dari menu dropdown "Paste Exposure."
+Judul Paste: Beri judul paste Anda di kolom "Paste Title."
+Buat Paste:
+
+Klik tombol "Create New Paste."
+Bagikan Tautan:
+
+Setelah membuat paste, Anda akan dialihkan ke halaman baru dengan paste Anda. Salin URL dari bilah alamat browser Anda untuk membagikannya dengan orang lain.
+_Notes ku [Notes ku](https://pastebin.com/Ge1Lf7AV)_
