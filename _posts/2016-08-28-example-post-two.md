@@ -30,4 +30,4 @@ Klik tombol "Create New Paste."
 Bagikan Tautan:
 
 Setelah membuat paste, Anda akan dialihkan ke halaman baru dengan paste Anda. Salin URL dari bilah alamat browser Anda untuk membagikannya dengan orang lain.
-_Notes ku [Notes ku](https://pastebin.com/Ge1Lf7AV)_
+_pastebin ku [pastebin ku](https://pastebin.com/Ge1Lf7AV)_
